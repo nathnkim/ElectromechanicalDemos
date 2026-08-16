@@ -1,3 +1,5 @@
+# Base excitation demo assembly and test video:  https://www.youtube.com/watch?v=d6ixO5XXAhE
+# Position control assembly and test video: https://www.youtube.com/watch?v=w2qYwhUiyq8
 This repo contains the source files and documentation for the SDoF demo platform that I originally designed and built for MECHENG 360 at the University of Michigan - Ann Arbor, under Dr. Jeffrey Koller.
 
 The SDoF demo platform consists of a brushed DC motor on an aluminum testbed which can be swapped between a mass-spring-damper base excitation demo and linear position control PID tuning demo.
